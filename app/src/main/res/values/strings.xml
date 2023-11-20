@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CurrencyX</string>
+    <string name="convert_button_text">Convert</string>
+    <string name="home_subheader_text">Easily convert a given amount in one currency into various other currencies.</string>
+    <string name="from_text">From</string>
+    <string name="usd_default_exchagne_code_text" translatable="false">USD</string>
+    <string name="amount_text">Amount</string>
+    <string name="back_button_description_text">Back Button</string>
+    <string name="currency_selection_ui_header">Select Currency</string>
+    <string name="currency_selection_ui_subheader">Choose a currency</string>
+    <string name="search_currency_placeholder_text">Search Currency</string>
+    <string name="exchange_rate_notification_title">Required data update</string>
+    <string name="exchange_rate_notification_message">Required data update in progress…</string>
+    <string name="notification_permission_alert_message">Please! Grant the notification permission from app settings.</string>
+    <string name="app_logo_description_text">App logo</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyX</string>
+    <string name="convert_button_text">変換する</string>
+    <string name="home_subheader_text">ある通貨の指定金額を他のさまざまな通貨に簡単に換算できます。</string>
+    <string name="from_text">から</string>
+    <string name="amount_text">額</string>
+    <string name="back_button_description_text">戻るボタン</string>
+    <string name="currency_selection_ui_header">通貨の選択</string>
+    <string name="currency_selection_ui_subheader">通貨を選択してください</string>
+    <string name="search_currency_placeholder_text">検索通貨</string>
+    <string name="exchange_rate_notification_title">必要なデータの更新</string>
+    <string name="exchange_rate_notification_message">必要なデータを更新中です…</string>
+    <string name="notification_permission_alert_message">お願いします！ アプリの設定から通知権限を付与してください。</string>
+    <string name="app_logo_description_text">アプリのロゴ</string>
+</resources>

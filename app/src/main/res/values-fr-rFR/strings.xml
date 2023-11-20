@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrencyX</string>
+    <string name="convert_button_text">Convertir</string>
+    <string name="home_subheader_text">Convertissez facilement un montant donné dans une devise dans diverses autres devises.</string>
+    <string name="from_text">De</string>
+    <string name="amount_text">Montant</string>
+    <string name="back_button_description_text">Bouton Retour</string>
+    <string name="currency_selection_ui_header">Sélectionnez la devise</string>
+    <string name="currency_selection_ui_subheader">Choisissez une devise</string>
+    <string name="search_currency_placeholder_text">Rechercher une devise</string>
+    <string name="exchange_rate_notification_title">Mise à jour des données requise</string>
+    <string name="exchange_rate_notification_message">Mise à jour des données requises en cours…</string>
+    <string name="notification_permission_alert_message">S\'il vous plaît! Accordez l\'autorisation de notification à partir des paramètres de l\'application.</string>
+    <string name="app_logo_description_text">Logo de l\'application</string>
+</resources>
