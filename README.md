@@ -40,7 +40,9 @@ CurrencyX uses the Open Exchange Rates service to fetch exchange rate data. To u
 
 Screenshots
 ------------------------------------------
-![Screenshot](./screenshot/screenshot_splashscreen.png)
-![Screenshot](./screenshot/screenshot_loadingscreen.png)
-![Screenshot](./screenshot/screenshot_currency_convert.png)
-![Screenshot](./screenshot/screenshot_search_currency.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <img src="./screenshots/screenshot_splashscreen.png" alt="Splash Screen" width="225" height="450" />
+    <img src="./screenshots/screenshot_loadingscreen.png" alt="Loading Screen" width="225" height="450" />
+    <img src="./screenshots/screenshot_currency_convert.png" alt="Currency Convert Screen" width="225" height="450" />
+    <img src="./screenshots/screenshot_search_currency.png" alt="Search Currency Screen" width="225" height="450" />
+</div>
